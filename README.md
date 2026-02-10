@@ -1,4 +1,4 @@
-# Auto-Sorting Files
+# Smart-File-Organizer
 
 A cross-platform tool to automatically organize your files into folders based on keywords and file types.
 
@@ -60,4 +60,5 @@ Use the app to:
 2.  Add new **Categories** (e.g., "Work").
 3.  Add/Remove **Keywords**.
 
-# auto-sorting-files
+# Smart-File-Organizer
+
