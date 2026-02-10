@@ -60,3 +60,4 @@ Use the app to:
 2.  Add new **Categories** (e.g., "Work").
 3.  Add/Remove **Keywords**.
 
+# auto-sorting-files
