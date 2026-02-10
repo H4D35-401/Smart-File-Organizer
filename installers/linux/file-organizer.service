@@ -1,0 +1,10 @@
+[Unit]
+Description=File Organization Automation
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/zariel/AG/DEVELOPMENT/Project/organizer.py
+Restart=always
+
+[Install]
+WantedBy=default.target

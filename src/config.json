@@ -1,0 +1,71 @@
+{
+    "inbox_path": "~/Documents/Inbox",
+    "root_path": "~/Documents/Organized",
+    "folders": {
+        "College/Semester 2/DBMS": [
+            "dbms",
+            "database",
+            "sql",
+            "ecap200"
+        ],
+        "College/Semester 2/OOP": [
+            "oop",
+            "cpp",
+            "object oriented",
+            "ecap202"
+        ],
+        "College/Semester 2/Networks": [
+            "network",
+            "ecap256"
+        ],
+        "College/Semester 2/CSA": [
+            "architecture",
+            "csa",
+            "ecap268"
+        ],
+        "College/Semester 2/English": [
+            "english",
+            "communication",
+            "eeng140"
+        ],
+        "JPN": [
+            "jpn",
+            "japanese",
+            "kanji",
+            "n5",
+            "n4"
+        ],
+        "Arch": [
+            "arch",
+            "linux",
+            "pacman",
+            "config",
+            "zsh"
+        ],
+        "Personal": [
+            "personal",
+            "diary",
+            "journal",
+            "note"
+        ],
+        "College": [
+            "college",
+            "uni",
+            "assign",
+            "lecture",
+            "homework"
+        ]
+    },
+    "extensions": {
+        "Scripts": [
+            ".py",
+            ".sh",
+            ".js",
+            ".c",
+            ".rs",
+            ".go",
+            ".rb"
+        ]
+    },
+    "fallback": "Others"
+}
