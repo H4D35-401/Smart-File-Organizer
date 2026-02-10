@@ -1,4 +1,4 @@
-# Smart File Organizer
+# Auto-Sorting Files
 
 A cross-platform tool to automatically organize your files into folders based on keywords and file types.
 
