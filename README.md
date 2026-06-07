@@ -13,7 +13,7 @@ A cross-platform tool to automatically organize your files into folders based on
 ### 🐧 Linux
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/Smart-File-Organizer.git
+git clone https://github.com/H4D35-401/Smart-File-Organizer.git
 cd Smart-File-Organizer/installers/linux
 
 # 2. Run the installer
